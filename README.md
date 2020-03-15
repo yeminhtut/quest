@@ -1,4 +1,4 @@
-# Binance glossary quests
+# Glossary quests
 
 ## Before you begin
 You need to install *Yarn* - Dependency package manager
